@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'why so serious';
+    src: url('why-so-serious.regular.ttf');
+}
+body {
+  background-color: blue;
+}
+
+h1 {
+  font-family: 'why so serious';
+  color:white;
+}
+h2 {
+  font-family: why so serious;
+    color:white;
+}
